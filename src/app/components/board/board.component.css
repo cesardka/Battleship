@@ -1,0 +1,33 @@
+/* Jogadores */
+.replay-p1, .replay-p2 {
+	display: inline-block;
+}
+.replay-p1 {
+	border: 5px solid red;
+}
+.replay-p2 {
+	border: 5px solid blue;
+}
+/* */
+.replay-battle.row {
+	min-width: 25px;
+	min-height: 25px;
+	max-width: 50px;
+	max-height: 50px;
+}
+
+.replay-battle-column.index {
+	color: white;
+	background-color: green;
+	text-align: center;
+}
+
+.replay-battle-column {
+	padding: 5px;
+	margin: 2px;
+	min-width: 25px;
+	min-height: 25px;
+	max-width: 50px;
+	max-height: 50px;
+	background: url("/src/assets/sea.png") no-repeat center center;
+}

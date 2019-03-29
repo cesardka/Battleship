@@ -1,0 +1,827 @@
+{
+    "board_1": [
+        [0,0,0,0,0,0,0,0,0,0],
+        [0,0,0,0,0,0,0,0,0,0],
+        [0,0,0,0,4,4,4,4,0,0],
+        [0,0,0,0,0,0,0,0,0,0],
+        [0,0,1,0,0,0,0,0,0,0],
+        [0,0,0,2,0,0,0,0,5,0],
+        [0,0,0,2,0,0,0,0,5,0],
+        [0,0,0,0,0,0,0,0,5,0],
+        [0,0,0,3,3,3,0,0,5,0],
+        [0,0,0,0,0,0,0,0,5,0]
+    ],
+    "board_2": [
+        [0,0,0,0,0,0,0,0,0,0],
+        [0,1,0,0,0,0,0,0,0,0],
+        [0,0,0,0,0,0,0,0,0,0],
+        [0,0,0,4,0,0,0,0,0,0],
+        [0,2,2,4,0,0,0,0,0,0],
+        [0,0,3,4,0,0,0,0,0,0],
+        [0,0,3,4,0,0,0,0,0,0],
+        [0,0,3,0,0,0,0,0,0,0],
+        [0,0,5,5,5,5,5,0,0,0],
+        [0,0,0,0,0,0,0,0,0,0]
+    ],
+    "turns": [        {
+            "player": "000001",
+            "position": {
+                "x": 4,
+                "y": 3
+            },
+            "hit": true
+        },
+        {
+            "player": "000002",
+            "position": {
+                "x": 7,
+                "y": 1
+            },
+            "hit": false
+        },
+        {
+            "player": "000001",
+            "position": {
+                "x": 7,
+                "y": 3
+            },
+            "hit": false
+        },
+        {
+            "player": "000002",
+            "position": {
+                "x": 2,
+                "y": 5
+            },
+            "hit": true
+        },
+        {
+            "player": "000001",
+            "position": {
+                "x": 8,
+                "y": 4
+            },
+            "hit": true
+        },
+        {
+            "player": "000002",
+            "position": {
+                "x": 0,
+                "y": 7
+            },
+            "hit": false
+        },
+        {
+            "player": "000001",
+            "position": {
+                "x": 4,
+                "y": 1
+            },
+            "hit": true
+        },
+        {
+            "player": "000002",
+            "position": {
+                "x": 4,
+                "y": 2
+            },
+            "hit": true
+        },
+        {
+            "player": "000001",
+            "position": {
+                "x": 8,
+                "y": 6
+            },
+            "hit": true
+        },
+        {
+            "player": "000002",
+            "position": {
+                "x": 2,
+                "y": 4
+            },
+            "hit": true
+        },
+        {
+            "player": "000001",
+            "position": {
+                "x": 6,
+                "y": 2
+            },
+            "hit": true
+        },
+        {
+            "player": "000002",
+            "position": {
+                "x": 8,
+                "y": 4
+            },
+            "hit": true
+        },
+        {
+            "player": "000001",
+            "position": {
+                "x": 3,
+                "y": 3
+            },
+            "hit": true
+        },
+        {
+            "player": "000002",
+            "position": {
+                "x": 7,
+                "y": 8
+            },
+            "hit": true
+        },
+        {
+            "player": "000001",
+            "position": {
+                "x": 1,
+                "y": 1
+            },
+            "hit": true
+        },
+        {
+            "player": "000002",
+            "position": {
+                "x": 5,
+                "y": 3
+            },
+            "hit": true
+        },
+        {
+            "player": "000001",
+            "position": {
+                "x": 4,
+                "y": 2
+            },
+            "hit": true
+        },
+        {
+            "player": "000002",
+            "position": {
+                "x": 1,
+                "y": 2
+            },
+            "hit": false
+        },
+        {
+            "player": "000001",
+            "position": {
+                "x": 5,
+                "y": 2
+            },
+            "hit": true
+        },
+        {
+            "player": "000002",
+            "position": {
+                "x": 6,
+                "y": 8
+            },
+            "hit": true
+        },
+        {
+            "player": "000001",
+            "position": {
+                "x": 8,
+                "y": 5
+            },
+            "hit": true
+        },
+        {
+            "player": "000002",
+            "position": {
+                "x": 2,
+                "y": 7
+            },
+            "hit": true
+        },
+        {
+            "player": "000001",
+            "position": {
+                "x": 8,
+                "y": 2
+            },
+            "hit": true
+        },
+        {
+            "player": "000002",
+            "position": {
+                "x": 6,
+                "y": 3
+            },
+            "hit": true
+        },
+        {
+            "player": "000001",
+            "position": {
+                "x": 3,
+                "y": 7
+            },
+            "hit": false
+        },
+        {
+            "player": "000002",
+            "position": {
+                "x": 8,
+                "y": 3
+            },
+            "hit": true
+        },
+        {
+            "player": "000001",
+            "position": {
+                "x": 5,
+                "y": 3
+            },
+            "hit": true
+        },
+        {
+            "player": "000002",
+            "position": {
+                "x": 8,
+                "y": 8
+            },
+            "hit": true
+        },
+        {
+            "player": "000001",
+            "position": {
+                "x": 7,
+                "y": 2
+            },
+            "hit": true
+        },
+        {
+            "player": "000002",
+            "position": {
+                "x": 2,
+                "y": 6
+            },
+            "hit": true
+        },
+        {
+            "player": "000001",
+            "position": {
+                "x": 6,
+                "y": 3
+            },
+            "hit": true
+        },
+        {
+            "player": "000002",
+            "position": {
+                "x": 5,
+                "y": 8
+            },
+            "hit": true
+        },
+        {
+            "player": "000001",
+            "position": {
+                "x": 4,
+                "y": 2
+            },
+            "hit": true
+        },
+        {
+            "player": "000002",
+            "position": {
+                "x": 9,
+                "y": 8
+            },
+            "hit": true
+        },
+        {
+            "player": "000001",
+            "position": {
+                "x": 5,
+                "y": 6
+            },
+            "hit": false
+        },
+        {
+            "player": "000002",
+            "position": {
+                "x": 5,
+                "y": 5
+            },
+            "hit": false
+        },
+        {
+            "player": "000001",
+            "position": {
+                "x": 8,
+                "y": 3
+            },
+            "hit": true
+        },
+        {
+            "player": "",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "hit": false
+        },
+        {
+            "player": "",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "hit": false
+        },
+        {
+            "player": "",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "hit": false
+        },
+        {
+            "player": "",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "hit": false
+        },
+        {
+            "player": "",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "hit": false
+        },
+        {
+            "player": "",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "hit": false
+        },
+        {
+            "player": "",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "hit": false
+        },
+        {
+            "player": "",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "hit": false
+        },
+        {
+            "player": "",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "hit": false
+        },
+        {
+            "player": "",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "hit": false
+        },
+        {
+            "player": "",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "hit": false
+        },
+        {
+            "player": "",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "hit": false
+        },
+        {
+            "player": "",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "hit": false
+        },
+        {
+            "player": "",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "hit": false
+        },
+        {
+            "player": "",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "hit": false
+        },
+        {
+            "player": "",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "hit": false
+        },
+        {
+            "player": "",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "hit": false
+        },
+        {
+            "player": "",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "hit": false
+        },
+        {
+            "player": "",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "hit": false
+        },
+        {
+            "player": "",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "hit": false
+        },
+        {
+            "player": "",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "hit": false
+        },
+        {
+            "player": "",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "hit": false
+        },
+        {
+            "player": "",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "hit": false
+        },
+        {
+            "player": "",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "hit": false
+        },
+        {
+            "player": "",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "hit": false
+        },
+        {
+            "player": "",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "hit": false
+        },
+        {
+            "player": "",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "hit": false
+        },
+        {
+            "player": "",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "hit": false
+        },
+        {
+            "player": "",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "hit": false
+        },
+        {
+            "player": "",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "hit": false
+        },
+        {
+            "player": "",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "hit": false
+        },
+        {
+            "player": "",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "hit": false
+        },
+        {
+            "player": "",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "hit": false
+        },
+        {
+            "player": "",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "hit": false
+        },
+        {
+            "player": "",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "hit": false
+        },
+        {
+            "player": "",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "hit": false
+        },
+        {
+            "player": "",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "hit": false
+        },
+        {
+            "player": "",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "hit": false
+        },
+        {
+            "player": "",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "hit": false
+        },
+        {
+            "player": "",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "hit": false
+        },
+        {
+            "player": "",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "hit": false
+        },
+        {
+            "player": "",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "hit": false
+        },
+        {
+            "player": "",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "hit": false
+        },
+        {
+            "player": "",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "hit": false
+        },
+        {
+            "player": "",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "hit": false
+        },
+        {
+            "player": "",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "hit": false
+        },
+        {
+            "player": "",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "hit": false
+        },
+        {
+            "player": "",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "hit": false
+        },
+        {
+            "player": "",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "hit": false
+        },
+        {
+            "player": "",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "hit": false
+        },
+        {
+            "player": "",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "hit": false
+        },
+        {
+            "player": "",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "hit": false
+        },
+        {
+            "player": "",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "hit": false
+        },
+        {
+            "player": "",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "hit": false
+        },
+        {
+            "player": "",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "hit": false
+        },
+        {
+            "player": "",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "hit": false
+        },
+        {
+            "player": "",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "hit": false
+        },
+        {
+            "player": "",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "hit": false
+        },
+        {
+            "player": "",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "hit": false
+        },
+        {
+            "player": "",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "hit": false
+        },
+        {
+            "player": "",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "hit": false
+        },
+        {
+            "player": "",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "hit": false
+        },
+        {
+            "player": "",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "hit": false
+        }
+    ]
+}

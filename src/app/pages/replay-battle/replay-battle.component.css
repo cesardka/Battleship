@@ -2,39 +2,13 @@
 .replay-battle {
 	margin: 10px;
 }
-/* Jogadores */
-.replay-p1, .replay-p2 {
-	display: inline-block;
-}
-.replay-p1 {
-	border: 5px solid red;
-}
-.replay-p2 {
-	border: 5px solid blue;
-}
-/* */
-.replay-battle.row {
-	min-width: 25px;
-	min-height: 25px;
-	max-width: 50px;
-	max-height: 50px;
-}
-
-.index {
-	color: white;
-	background-color: green;
-}
-
-.replay-battle-column {
-	padding: 15px;
-	min-width: 25px;
-	min-height: 25px;
-	max-width: 50px;
-	max-height: 50px;
-}
 
 /* Menu */
 .menu-container {
-	margin: 0 %;
+	margin: 0;
 	width: 100%;
+}
+
+.player-details {
+	padding: 8px 15px;
 }
